@@ -133,7 +133,7 @@ export default function Home() {
 
       {/* Responsive CircularGallery Section */}
       <div className="container min-h-auto mx-auto" style={{ height: '600px', position: 'relative' }}>
-        <CircularGallery bend={-1} textColor="#ffffff" borderRadius={0.05} scrollEase={0.02}/>
+        <CircularGallery bend={-1} textColor="#ffffff" borderRadius={0.05} scrollEase={0.2}/>
       </div>
 
       <div className="container relative mx-auto min-h-screen px-2 sm:px-4 md:px-8 lg:px-16 xl:px-24 w-full">
