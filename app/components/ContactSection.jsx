@@ -57,7 +57,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium"> Email</h4>
                   <a
-                    href="mailto:hello@gmail.com"
+                    href="mailto:satriaridho4355@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     satriaridho4355@gmail.com
@@ -94,13 +94,13 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4 text-center">Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank">
+                <a href="https://www.linkedin.com/in/satria-ridho-03a70a376/" target="_blank">
                   <Linkedin />
                 </a>
                 <a href="#" target="_blank">
                   <Twitter />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://www.instagram.com/peachydhoo_/" target="_blank">
                   <Instagram />
                 </a>
                 

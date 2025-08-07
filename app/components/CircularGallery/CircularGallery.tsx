@@ -471,20 +471,20 @@ class App {
   ) {
     const defaultItems = [
       {
-        image: `https://i.ibb.co.com/DHzCb96g/bnsp-1.jpg`,
+        image: `https://i.ibb.co.com/wh2tVy8f/Rectangle-2.png`,
         text: "BNSP",
       },
       {
-        image: `https://i.ibb.co.com/fGzp9zky/nais-1.jpg`,
-        text: "Internship",
+        image: `https://i.ibb.co.com/ynNBMX7L/Rectangle-1.png`,
+        text: "Internship Naistudio",
       },
       {
-        image: `https://i.ibb.co.com/DHzCb96g/bnsp-1.jpg`,
-        text: "BNSP",
+        image: `https://i.ibb.co.com/RG0cWwkP/Rectangle-4.png`,
+        text: "Data Analyst Python",
       },
       {
-        image: `https://i.ibb.co.com/fGzp9zky/nais-1.jpg`,
-        text: "Internship",
+        image: `https://i.ibb.co.com/7t0GNgyd/Rectangle-3.png`,
+        text: "Data Analyst",
       },
       
     ];

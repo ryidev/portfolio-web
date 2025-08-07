@@ -18,7 +18,7 @@ const RecentProjects = () => {
   }}
 >
   A small selection of{" "}
-  <span className="text-purple font-black">recent projects</span>
+  <span className="text-purple font-black">my projects</span>
 </h1>
       <div className="flex flex-wrap items-center justify-center p-3 gap-30 mt-10">
         {projects.map((item) => (
@@ -27,8 +27,8 @@ const RecentProjects = () => {
             key={item.id}
           >
             <PinContainer
-              title="/ui.aceternity.com"
-              href="https://twitter.com/mannupaaji"
+              title="/satriaridho.vercel.app"
+              href="https://www.instagram.com/peachydhoo_/"
             >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <div
@@ -75,7 +75,7 @@ const RecentProjects = () => {
 
                 <div className="flex justify-center items-center">
                   <p className="flex lg:text-l md:text-xs text-sm text-purple">
-                    Check Live Site
+                    <a target="_blank" href={item.link}>Check Live Site</a>
                   </p>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </div>
