@@ -75,7 +75,6 @@ export const projects = [
     title: "BluePinWheel",
     des: "Website Service Provider using Laravel",
     img: "/p1.svg",
-    iconLists: ["/re.svg", "/three.svg", "/fm.svg"],
     link: "#",
   },
   {
@@ -83,7 +82,6 @@ export const projects = [
     title: "Sewa Lampung",
     des: "Rental dashboard for motorcycles, cameras, laptops, etc.",
     img: "/p2.svg",
-    iconLists: [ "/tail.svg", "/ts.svg", "/stream.svg"],
     link: "https://sewamotorlampung.com/",
   },
   {
@@ -91,7 +89,6 @@ export const projects = [
     title: "Cubic Jump - Game Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     link: "https://play.google.com/store/apps/details?id=com.kanthreedev.cubicjump&hl=en-ID",
   },
   {
@@ -99,7 +96,6 @@ export const projects = [
     title: "Ordering Dashboard",
     des: "Dashboard for managing orders, products, and customers with a modern UI.",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "#",
   },
  
