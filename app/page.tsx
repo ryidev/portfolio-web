@@ -72,7 +72,7 @@ export default function Home() {
               </div>
 
               <BlurText
-                text="Creative front-end developer with more than +2 years of experience in enterprise companies and startups. Proficient in HTML, CSS, JavaScript, Laravel, Next JS. Passionate about UI/UX."
+                text="Creative front-end developer with over +1 years of experience in Freelance Web Development. Proficient in HTML, CSS, JavaScript, Laravel, and Next.js."
                 delay={100}
                 animateBy="words"
                 direction="top"
@@ -82,7 +82,7 @@ export default function Home() {
               <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start flex-wrap gap-4 mt-2 w-full">
                 <button className="relative inline-flex h-12 overflow-hidden rounded-full p-[2px] bg-[#410BAA] transition-shadow duration-300 w-full sm:w-auto">
                   <span className="inline-flex h-full w-full items-center justify-center rounded-full bg-black bg-opacity-80 px-6 py-1 text-sm font-medium text-white">
-                    <a href="https://wa.me/6281274588486">Contact Me</a>
+                    <a target="_blank" href="https://wa.me/6281274588486">Contact Me</a>
                   </span>
                 </button>
 
