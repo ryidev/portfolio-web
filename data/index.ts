@@ -102,14 +102,7 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "#",
   },
-  {
-    id: 5,
-    title: "Nerflix - Film Website",
-    des: "A film website with a modern design and responsive layout.",
-    img: "/p5.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://ryifilm.netlify.app/",
-  },
+ 
 ];
 
 export const testimonials = [
